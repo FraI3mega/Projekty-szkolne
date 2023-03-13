@@ -1,5 +1,5 @@
 ﻿// Kalkulator.cpp : Ten plik zawiera funkcję „main”. W nim rozpoczyna się i kończy wykonywanie programu.
-//
+// FRanek S
 
 #include <iostream>
 #include "Kalkulator.h"
